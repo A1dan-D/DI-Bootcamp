@@ -1,0 +1,9 @@
+#catTitle{
+   text-align: center; 
+}
+img{
+    border: 5px solid darkblue;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
