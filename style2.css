@@ -1,0 +1,54 @@
+#{
+    box-sizing: border-box;
+}
+#navbar{
+
+    display:flex;
+    justify-content: space-between;
+}
+#navLinks{
+    display:flex;
+    list-style: none;
+}
+.navlinkitems{
+    margin: 5px;
+}
+#aboutMe{
+    text-align: center;
+    border-bottom: 1px solid black;
+    width: 600px;
+}
+#contact{
+    border: 1px solid black;
+    text-align: center;
+}
+.contactlistitems{
+    list-style: none;
+}
+#contactList{
+    padding:0
+}
+#form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width:500px
+}
+#registration{
+    display: flex;
+    justify-content: center;
+}
+#registerheader{
+    text-align: center;
+}
+#blank{
+    height: 700px;
+}
+footer{
+    text-align: center;
+}
+#top{
+    display: flex;
+    flex-wrap: wrap;
+}
